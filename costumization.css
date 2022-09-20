@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background: url("fundo.png");
+  background-size: 100%;
+  font-family: Arial;
+}
+
+.retrato {
+  width: 150px;
+  border-radius: 60px;
+  border: 5px solid #b6d9c3;
+  margin-top: 50px;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 30px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  background-color: #c6a9ac;
+  width: 200px;
+  height: 35px;
+  line-height: 35px;
+  display: inline-block;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+a:hover {
+  color: #ffffff;
+  background-color: #a18093;
+}
+
+.icon {
+  width: 20px;
+  margin-top: 6px;
+  margin-right: 5px;
+}
+
+.insta {
+  width: 17px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.linkedin {
+  width: 17px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
